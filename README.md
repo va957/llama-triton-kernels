@@ -1,7 +1,6 @@
 # Custom GPU Kernels for LLaMA Transformer Inference
 
-This repository implements **high-performance GPU kernels using Triton** for core Transformer inference operations,
-optimized for production LLM inference engines such as **vLLM** and **FlashAttention**.
+This repository implements **high-performance GPU kernels using Triton** for core Transformer inference operations.
 
 **Hardware:** NVIDIA GeForce RTX 3070 (Compute Capability 8.6)
 
